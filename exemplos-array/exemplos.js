@@ -1,3 +1,3 @@
 //Maria Eduarda
 
-//Exemplos de arrey
+//Exemplos de array
