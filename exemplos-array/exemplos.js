@@ -1,7 +1,7 @@
-//Maria Eduarda
+//Maria Eduarda Barbarini
 
 //Exemplos de array
-<<<<<<< HEAD
+//  HEAD
 
 //Criando arrays com nomes de frutas e sucos
 let sucos = ["Laranja", "uva", "Abacaxi", "Manga", "Maracujá"];
@@ -43,5 +43,5 @@ console.log(cidades);
 let paises = ["Brasil", "Argentina", "Chile"];
 paises.unshift("Uruguai");
 console.log(paises);
-=======
->>>>>>> ed95687dab17f6efbd7a4bfec9253d227fe2317c
+
+
